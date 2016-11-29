@@ -9,6 +9,6 @@ Seu funcionamento é bastante simples e fácil. O Arduíno fará a leitura do ca
 
 #Facilidade
 
- * Ajuda o professor na chamda;
+ * Ajuda o professor na chamada;
  * Evita perdas de tempo;
- * Os alunos ficam felizem.
+ * Os alunos ficam felizes =D.
